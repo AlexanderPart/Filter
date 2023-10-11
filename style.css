@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.buttons {
+  text-align: center;
+}
+
+.box {
+  height: 200px;
+  margin-top: 50px;
+  width: 600px;
+  /* border: 1px solid black; */
+  display: flex;
+  background: rgb(247, 247, 247);
+  border-radius: 10px;
+}
+
+.box img {
+  height: 150px;
+  width: auto;
+  padding: 10px;
+  
+}
+
+.title-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.title-item h5{
+  padding: 10px;
+}
+
+.contain {
+  margin-bottom: 50px;
+}
+
+.btn {
+  margin: 10px;
+}
